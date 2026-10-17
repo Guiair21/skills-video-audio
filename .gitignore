@@ -1,0 +1,20 @@
+# Credenciais: nunca entram no repositório
+*cookies*.txt
+*.env
+.secrets/
+
+# Mídia e saídas geradas
+*.mp4
+*.mov
+*.webm
+*.wav
+*.ogg
+*.opus
+*.mp3
+*.m4a
+*.jpg
+*.png
+candidatos.json
+transcricoes/
+
+__pycache__/
